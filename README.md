@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Ahmad 👋
 
-<img src="./github_profile_portrait_under_1mb.jpg" width="180" alt="Muhammad Ahmad">
+
 
   **Computer Science Student | Software Development | Backend Engineering**
 

@@ -3,6 +3,8 @@
 <!--
 **MuhammadAhmad778/MuhammadAhmad778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="./profile.jpg" width="200" alt="Muhammad Ahmad's profile photo">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
